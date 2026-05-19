@@ -141,3 +141,24 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+# Secrets
+.env
+
+# Sessions
+sessions/
+
+# Logs
+logs/
+
+# Database
+database/
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+coverage/
